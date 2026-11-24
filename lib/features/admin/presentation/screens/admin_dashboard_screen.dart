@@ -239,7 +239,7 @@ class _AdminDashboardScreenState extends State<AdminDashboardScreen> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const Text(
-                      'Scoutly',
+                      'Zentrip',
                       style:
                           TextStyle(fontSize: 17, fontWeight: FontWeight.w800),
                     ),

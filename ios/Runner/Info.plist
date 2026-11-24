@@ -7,7 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Scoutly</string>
+	<string>Zentrip</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Scoutly</string>
+	<string>zentrip</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -27,9 +27,9 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Scoutly uses your location to find nearby cafes, restaurants, hotels, and attractions.</string>
+	<string>Zentrip uses your location to find nearby cafes, restaurants, hotels, and attractions.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Scoutly lets hotel partners choose property photos to upload to their listings.</string>
+	<string>Zentrip lets hotel partners choose property photos to upload to their listings.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

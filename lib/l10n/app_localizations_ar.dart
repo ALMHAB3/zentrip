@@ -9,7 +9,7 @@ class AppLocalizationsAr extends AppLocalizations {
   AppLocalizationsAr([String locale = 'ar']) : super(locale);
 
   @override
-  String get appName => 'سكاوتلي';
+  String get appName => 'زنتريب';
 
   @override
   String get welcomeTitle => 'خطط بذكاء. سافر بخفة.';
@@ -191,7 +191,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get signup => 'إنشاء حساب';
 
   @override
-  String get loginWelcome => 'أهلاً بك في سكاوتلي';
+  String get loginWelcome => 'أهلاً بك في زنتريب';
 
   @override
   String get loginSubtitle => 'سجّل دخولك لمتابعة رحلاتك الذكية';
@@ -598,7 +598,7 @@ class AppLocalizationsAr extends AppLocalizations {
   @override
   String tripShareText(
       Object date, Object destination, Object flightNumber, Object origin) {
-    return 'رحلتي: $origin → $destination في $date (رحلة $flightNumber). محجوزة عن طريق Scoutly!';
+    return 'رحلتي: $origin → $destination في $date (رحلة $flightNumber). محجوزة عن طريق Zentrip!';
   }
 
   @override
@@ -853,7 +853,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get locationPermissionMessage =>
-      'يحتاج سكاوتلي إلى موقعك لعرض الأماكن القريبة';
+      'يحتاج زنتريب إلى موقعك لعرض الأماكن القريبة';
 
   @override
   String get openSettings => 'فتح الإعدادات';
@@ -2029,7 +2029,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get commonEnterSixDigitCode => 'أدخل الرمز المكوّن من 6 أرقام';
 
   @override
-  String get commonWelcomeToZentrip => 'أهلاً بك في سكاوتلي! 🎉';
+  String get commonWelcomeToZentrip => 'أهلاً بك في زنتريب! 🎉';
 
   @override
   String get commonReadyToExplore => 'جاهز لاستكشاف العالم؟';
@@ -2210,7 +2210,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get profileSectionAccountSecurity => 'الحساب والأمان';
 
   @override
-  String get profileDefaultUserName => 'مستخدم سكاوتلي';
+  String get profileDefaultUserName => 'مستخدم زنتريب';
 
   @override
   String get profileStatTrips => 'رحلة';
@@ -2341,7 +2341,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get adminDashboard => 'لوحة تحكم الإدارة';
 
   @override
-  String get adminWorkspaceLabel => 'إدارة سكاوتلي';
+  String get adminWorkspaceLabel => 'إدارة زنتريب';
 
   @override
   String get adminOverview => 'نظرة عامة';
@@ -2426,7 +2426,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get adminPartnerExistingAccountHint =>
-      'يجب أن يكون لدى الشريك حساب سكاوتلي مسبقاً. لن يتم إنشاء كلمة مرور أو تغييرها.';
+      'يجب أن يكون لدى الشريك حساب زنتريب مسبقاً. لن يتم إنشاء كلمة مرور أو تغييرها.';
 
   @override
   String get adminPartnerStatusActive => 'نشط';
@@ -2731,7 +2731,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get partnerWelcome => 'أهلاً بك';
 
   @override
-  String get partnerSubtitle => 'أدر نشاطك السياحي على سكاوتلي.';
+  String get partnerSubtitle => 'أدر نشاطك السياحي على زنتريب.';
 
   @override
   String get partnerListingCount => 'قوائمك';

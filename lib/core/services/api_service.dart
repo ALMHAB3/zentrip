@@ -621,7 +621,7 @@ class ApiService {
     required double rating,
     required String comment,
   }) async {
-    final userName = currentUser?.name ?? 'Scoutly User';
+    final userName = currentUser?.name ?? 'Zentrip User';
     final review = ReviewModel(
       id: DateTime.now().millisecondsSinceEpoch.toString(),
       itemId: itemId,
@@ -2492,7 +2492,7 @@ class ApiService {
   UserModel _mockUser(String email) {
     final namePart = email.contains('@') ? email.split('@').first : email;
     final displayName = namePart.isEmpty
-        ? 'Scoutly User'
+        ? 'Zentrip User'
         : namePart[0].toUpperCase() + namePart.substring(1);
     return UserModel(
       id: email.hashCode,
@@ -2628,7 +2628,7 @@ class ApiService {
       case DioExceptionType.receiveTimeout:
         return 'The connection to the server timed out';
       case DioExceptionType.connectionError:
-        return "Can't reach the Scoutly server at $baseUrl. Start the backend "
+        return "Can't reach the Zentrip server at $baseUrl. Start the backend "
             'or check the API URL and device network settings.';
       default:
         return 'Something went wrong, please try again';

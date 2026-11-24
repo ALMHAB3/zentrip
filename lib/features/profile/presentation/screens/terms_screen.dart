@@ -66,11 +66,11 @@ class TermsScreen extends StatelessWidget {
       ? [
           (
             'قبول الشروط',
-            'باستخدامك تطبيق Scoutly فإنك توافق على الالتزام بهذه الشروط والأحكام. إذا كنت لا توافق على أي جزء منها، يرجى التوقف عن استخدام التطبيق.'
+            'باستخدامك تطبيق Zentrip فإنك توافق على الالتزام بهذه الشروط والأحكام. إذا كنت لا توافق على أي جزء منها، يرجى التوقف عن استخدام التطبيق.'
           ),
           (
             'استخدام الخدمة',
-            'يوفر Scoutly منصة لحجز الرحلات والفنادق والسيارات والأنشطة السياحية. أنت مسؤول عن صحة البيانات التي تدخلها وعن الحفاظ على سرية بيانات حسابك.'
+            'يوفر Zentrip منصة لحجز الرحلات والفنادق والسيارات والأنشطة السياحية. أنت مسؤول عن صحة البيانات التي تدخلها وعن الحفاظ على سرية بيانات حسابك.'
           ),
           (
             'الحجوزات والأسعار',
@@ -86,11 +86,11 @@ class TermsScreen extends StatelessWidget {
           ),
           (
             'الملكية الفكرية',
-            'جميع العلامات والشعارات والمحتوى في التطبيق مملوكة لـ Scoutly أو مرخّصة لها، ولا يجوز نسخها أو إعادة استخدامها دون إذن كتابي.'
+            'جميع العلامات والشعارات والمحتوى في التطبيق مملوكة لـ Zentrip أو مرخّصة لها، ولا يجوز نسخها أو إعادة استخدامها دون إذن كتابي.'
           ),
           (
             'حدود المسؤولية',
-            'لا يتحمل Scoutly مسؤولية الأضرار غير المباشرة الناتجة عن استخدام التطبيق أو انقطاع الخدمة أو أخطاء مزوّدي الخدمات الخارجيين.'
+            'لا يتحمل Zentrip مسؤولية الأضرار غير المباشرة الناتجة عن استخدام التطبيق أو انقطاع الخدمة أو أخطاء مزوّدي الخدمات الخارجيين.'
           ),
           (
             'التعديلات',
@@ -104,11 +104,11 @@ class TermsScreen extends StatelessWidget {
       : [
           (
             'Acceptance of Terms',
-            'By using the Scoutly app you agree to be bound by these terms and conditions. If you do not agree with any part of them, please stop using the app.'
+            'By using the Zentrip app you agree to be bound by these terms and conditions. If you do not agree with any part of them, please stop using the app.'
           ),
           (
             'Use of the Service',
-            'Scoutly provides a platform for booking flights, hotels, cars and travel activities. You are responsible for the accuracy of the information you provide and for keeping your account credentials secure.'
+            'Zentrip provides a platform for booking flights, hotels, cars and travel activities. You are responsible for the accuracy of the information you provide and for keeping your account credentials secure.'
           ),
           (
             'Bookings & Prices',
@@ -124,11 +124,11 @@ class TermsScreen extends StatelessWidget {
           ),
           (
             'Intellectual Property',
-            'All trademarks, logos and content in the app are owned by or licensed to Scoutly and may not be copied or reused without written permission.'
+            'All trademarks, logos and content in the app are owned by or licensed to Zentrip and may not be copied or reused without written permission.'
           ),
           (
             'Limitation of Liability',
-            'Scoutly is not liable for indirect damages arising from use of the app, service interruptions, or errors by third-party service providers.'
+            'Zentrip is not liable for indirect damages arising from use of the app, service interruptions, or errors by third-party service providers.'
           ),
           (
             'Changes to These Terms',

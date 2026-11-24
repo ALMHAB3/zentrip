@@ -122,7 +122,7 @@ void main() {
       expect(model.id, '12');
       expect(model.maxPassengers, 1);
       expect(model.maxLuggage, 0);
-      expect(model.providerName, 'Scoutly Transfers');
+      expect(model.providerName, 'Zentrip Transfers');
       expect(model.includedServices, isEmpty);
     });
   });

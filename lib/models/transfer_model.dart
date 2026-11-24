@@ -64,7 +64,7 @@ class TransferModel {
     this.driverRating,
     this.vehicleImageUrl,
     this.status = 'pending',
-    this.providerName = 'Scoutly Transfers',
+    this.providerName = 'Zentrip Transfers',
     this.includedServices = const [],
     this.partnerListingId,
     this.partnerName,
@@ -131,7 +131,7 @@ class TransferModel {
                 : _stringFromDynamic(json['vehicle_image_url']),
         status: _stringFromDynamic(json['status'], 'pending'),
         providerName:
-            _stringFromDynamic(json['provider_name'], 'Scoutly Transfers'),
+            _stringFromDynamic(json['provider_name'], 'Zentrip Transfers'),
         includedServices: (json['included_services'] as List<dynamic>? ?? [])
             .map((e) => e.toString())
             .toList(),

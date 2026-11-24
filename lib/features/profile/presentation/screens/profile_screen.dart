@@ -200,7 +200,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
               const SizedBox(height: 16),
 
               // ── App version ───────────────────────────────────────────
-              const Text('Scoutly v1.0.0',
+              const Text('Zentrip v1.0.0',
                   style: TextStyle(color: AppColors.textHint, fontSize: 12)),
               const SizedBox(height: 8),
             ],

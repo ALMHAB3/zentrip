@@ -101,7 +101,7 @@ abstract class AppLocalizations {
   /// No description provided for @appName.
   ///
   /// In ar, this message translates to:
-  /// **'سكاوتلي'**
+  /// **'زنتريب'**
   String get appName;
 
   /// No description provided for @welcomeTitle.
@@ -461,7 +461,7 @@ abstract class AppLocalizations {
   /// No description provided for @loginWelcome.
   ///
   /// In ar, this message translates to:
-  /// **'أهلاً بك في سكاوتلي'**
+  /// **'أهلاً بك في زنتريب'**
   String get loginWelcome;
 
   /// No description provided for @loginSubtitle.
@@ -1241,7 +1241,7 @@ abstract class AppLocalizations {
   /// No description provided for @tripShareText.
   ///
   /// In ar, this message translates to:
-  /// **'رحلتي: {origin} → {destination} في {date} (رحلة {flightNumber}). محجوزة عن طريق Scoutly!'**
+  /// **'رحلتي: {origin} → {destination} في {date} (رحلة {flightNumber}). محجوزة عن طريق Zentrip!'**
   String tripShareText(
       Object date, Object destination, Object flightNumber, Object origin);
 
@@ -1728,7 +1728,7 @@ abstract class AppLocalizations {
   /// No description provided for @locationPermissionMessage.
   ///
   /// In ar, this message translates to:
-  /// **'يحتاج سكاوتلي إلى موقعك لعرض الأماكن القريبة'**
+  /// **'يحتاج زنتريب إلى موقعك لعرض الأماكن القريبة'**
   String get locationPermissionMessage;
 
   /// No description provided for @openSettings.
@@ -3775,7 +3775,7 @@ abstract class AppLocalizations {
   /// No description provided for @commonWelcomeToZentrip.
   ///
   /// In ar, this message translates to:
-  /// **'أهلاً بك في سكاوتلي! 🎉'**
+  /// **'أهلاً بك في زنتريب! 🎉'**
   String get commonWelcomeToZentrip;
 
   /// No description provided for @commonReadyToExplore.
@@ -4099,7 +4099,7 @@ abstract class AppLocalizations {
   /// No description provided for @profileDefaultUserName.
   ///
   /// In ar, this message translates to:
-  /// **'مستخدم سكاوتلي'**
+  /// **'مستخدم زنتريب'**
   String get profileDefaultUserName;
 
   /// No description provided for @profileStatTrips.
@@ -4357,7 +4357,7 @@ abstract class AppLocalizations {
   /// No description provided for @adminWorkspaceLabel.
   ///
   /// In ar, this message translates to:
-  /// **'إدارة سكاوتلي'**
+  /// **'إدارة زنتريب'**
   String get adminWorkspaceLabel;
 
   /// No description provided for @adminOverview.
@@ -4525,7 +4525,7 @@ abstract class AppLocalizations {
   /// No description provided for @adminPartnerExistingAccountHint.
   ///
   /// In ar, this message translates to:
-  /// **'يجب أن يكون لدى الشريك حساب سكاوتلي مسبقاً. لن يتم إنشاء كلمة مرور أو تغييرها.'**
+  /// **'يجب أن يكون لدى الشريك حساب زنتريب مسبقاً. لن يتم إنشاء كلمة مرور أو تغييرها.'**
   String get adminPartnerExistingAccountHint;
 
   /// No description provided for @adminPartnerStatusActive.
@@ -5113,7 +5113,7 @@ abstract class AppLocalizations {
   /// No description provided for @partnerSubtitle.
   ///
   /// In ar, this message translates to:
-  /// **'أدر نشاطك السياحي على سكاوتلي.'**
+  /// **'أدر نشاطك السياحي على زنتريب.'**
   String get partnerSubtitle;
 
   /// No description provided for @partnerListingCount.

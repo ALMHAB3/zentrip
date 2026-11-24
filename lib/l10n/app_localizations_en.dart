@@ -9,7 +9,7 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get appName => 'Scoutly';
+  String get appName => 'Zentrip';
 
   @override
   String get welcomeTitle => 'Plan smarter. Travel lighter.';
@@ -192,7 +192,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get signup => 'Create Account';
 
   @override
-  String get loginWelcome => 'Welcome to Scoutly';
+  String get loginWelcome => 'Welcome to Zentrip';
 
   @override
   String get loginSubtitle => 'Log in to continue your smart travel plans';
@@ -604,7 +604,7 @@ class AppLocalizationsEn extends AppLocalizations {
   @override
   String tripShareText(
       Object date, Object destination, Object flightNumber, Object origin) {
-    return 'My flight: $origin → $destination on $date (flight $flightNumber). Booked via Scoutly!';
+    return 'My flight: $origin → $destination on $date (flight $flightNumber). Booked via Zentrip!';
   }
 
   @override
@@ -862,7 +862,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get locationPermissionMessage =>
-      'Scoutly needs your location to show nearby places';
+      'Zentrip needs your location to show nearby places';
 
   @override
   String get openSettings => 'Open Settings';
@@ -2034,7 +2034,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get commonEnterSixDigitCode => 'Enter the 6-digit code';
 
   @override
-  String get commonWelcomeToZentrip => 'Welcome to Scoutly! 🎉';
+  String get commonWelcomeToZentrip => 'Welcome to Zentrip! 🎉';
 
   @override
   String get commonReadyToExplore => 'Ready to explore the world?';
@@ -2215,7 +2215,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get profileSectionAccountSecurity => 'Account & Security';
 
   @override
-  String get profileDefaultUserName => 'Scoutly User';
+  String get profileDefaultUserName => 'Zentrip User';
 
   @override
   String get profileStatTrips => 'Trips';
@@ -2348,7 +2348,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get adminDashboard => 'Admin dashboard';
 
   @override
-  String get adminWorkspaceLabel => 'Scoutly management';
+  String get adminWorkspaceLabel => 'Zentrip management';
 
   @override
   String get adminOverview => 'Overview';
@@ -2433,7 +2433,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get adminPartnerExistingAccountHint =>
-      'The partner must already have a Scoutly account. This will not create or reset a password.';
+      'The partner must already have a Zentrip account. This will not create or reset a password.';
 
   @override
   String get adminPartnerStatusActive => 'Active';
@@ -2738,7 +2738,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get partnerWelcome => 'Welcome';
 
   @override
-  String get partnerSubtitle => 'Manage your travel business on Scoutly.';
+  String get partnerSubtitle => 'Manage your travel business on Zentrip.';
 
   @override
   String get partnerListingCount => 'Your listings';
